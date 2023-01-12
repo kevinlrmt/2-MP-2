@@ -265,15 +265,15 @@ footer ul li a, h3{
     border: none;
     cursor: pointer;
     margin-right:10px;
-  }
+}
   
-  .dropdown {
+.dropdown {
     position: relative;
     display: inline-block;
     float: right;
-  }
+}
   
-  .dropdown-content {
+.dropdown-content {
     display: none;
     position: absolute;
     right: 0;
@@ -281,31 +281,31 @@ footer ul li a, h3{
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-  }
+}
   
-  .dropdown-content a {
+.dropdown-content a {
     font-family: 'Montserrat', serif;
     font-size:16px;
     color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-  }
+}
   
-  .dropdown-content a:hover {
+.dropdown-content a:hover {
     background-color: #1F1F1F;
     color: #F1F1F1;
 }
   
-  .dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
-  }
+}
   
-  .dropdown:hover .dropbtn {
+.dropdown:hover .dropbtn {
     background-color: #1F1F1F;
-  }
+}
 
-  /*/// VIGNETTES PRODUIT ////*/
+/*/// VIGNETTES PRODUIT ////*/
 section .parent bouton{
     font-family: 'Montserrat', sans-serif;
     position: absolute;
